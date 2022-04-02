@@ -1,4 +1,6 @@
 # SiberSystemsTestTask
 Implementation of test task
 
-All comments are included in document "Implementation notes.docx" (in russian)
+Test task includes two versions:
+1)Command line (described in document "Implementation notes.docx")
+2) GUI (described in document "CMake_version_Implementation_notes.docx")
