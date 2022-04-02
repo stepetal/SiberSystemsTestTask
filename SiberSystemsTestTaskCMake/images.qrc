@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>images/Clear-icon.png</file>
+        <file>images/Button-Next-icon.png</file>
+    </qresource>
+</RCC>

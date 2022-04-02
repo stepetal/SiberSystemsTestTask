@@ -29,5 +29,5 @@ int main(int argc, char *argv[])
     qDebug() << tlc.getNext();
     qDebug() << tlc.getNext();
     qDebug() << tlc.getNext();
-    return a.exec();
+    //return a.exec();
 }
