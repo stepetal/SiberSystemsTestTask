@@ -1,5 +1,5 @@
 # SiberSystemsTestTask
-Implementation of test task
+Implementation of test task (see document "Test task 1.pdf")
 
 Test task consists of two versions:
 1) Command line (described in document "Implementation notes.docx")
